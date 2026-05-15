@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:theweioflife1.wordpress.com)",
+      "Bash(openspec status *)",
+      "Bash(openspec instructions *)",
+      "Skill(openspec-apply-change)",
+      "Bash(NEXT_PUBLIC_SITE_URL=\"https://example.com/theweioflife\" NEXT_PUBLIC_GITHUB_PAGES_REPOSITORY=theweioflife npm run build)",
+      "Bash(NEXT_PUBLIC_SITE_URL=\"https://example.com\" npm run build)"
+    ]
+  }
+}
