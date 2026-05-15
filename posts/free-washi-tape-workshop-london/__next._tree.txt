@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/03tb9lxy8i5~..css","style"]
+:HL["/_next/static/media/ce62453a442c7f35-s.p.0333ktddfbsxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://theweioflife1.wordpress.com/wp-content/uploads/2026/05/96a935a6-3e5f-46e5-9f8b-97c5d3f41c21_1179x575-1.webp","image",{"imageSizes":"(max-width: 768px) 100vw, 480px"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"free-washi-tape-workshop-london","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"jfXP9vihQYnvthgwDDeFb"}

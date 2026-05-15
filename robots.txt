@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://theweioflife.github.io
+Sitemap: https://theweioflife.github.io/sitemap.xml
